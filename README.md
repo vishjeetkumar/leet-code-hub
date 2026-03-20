@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/vishjeetkumar/leet-code-hub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vishjeetkumar/leet-code-hub/tree/master/0326-power-of-three) |
+| [1952-three-divisors](https://github.com/vishjeetkumar/leet-code-hub/tree/master/1952-three-divisors) |
 | [3516-find-closest-person](https://github.com/vishjeetkumar/leet-code-hub/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/vishjeetkumar/leet-code-hub/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/vishjeetkumar/leet-code-hub/tree/master/3536-maximum-product-of-two-digits) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vishjeetkumar/leet-code-hub/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vishjeetkumar/leet-code-hub/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
